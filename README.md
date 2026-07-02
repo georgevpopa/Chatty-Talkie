@@ -235,3 +235,9 @@ MIT License — Free to use, modify, and distribute.
 ---
 
 Made with ❤️ by Chatty Talkie Team
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=georgevpopa/Chatty-Talkie&type=Date)](https://star-history.com/#georgevpopa/Chatty-Talkie&Date)
